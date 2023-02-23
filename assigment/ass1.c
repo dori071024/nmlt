@@ -19,7 +19,7 @@ do{
      
     switch(chon){
     	case 1:
-    		printf("1. kiem tra so nguyen");
+    		printf(" kiem tra so nguyen");
     	break;
     	case 2:
     		printf("tinh uoc chung va boi chung hai so ");
